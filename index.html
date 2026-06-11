@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FutureMind // Ultimate AI Tools Directory</title>
+  <meta name="description" content="Discover, search, and filter through the internet's most comprehensive catalog of 30+ game-changing AI Tools. Discover Chatbots, Image Generation, and Development utilities.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+
+  <header class="navbar">
+    <div class="container nav-container">
+      <a href="#" class="logo">
+        <span class="logo-accent">⚡</span> FutureMind
+      </a>
+      <div class="stats-badge">
+        <span class="dot"></span> <span id="tool-count">0</span> Tools Indexed
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-content">
+        <h1 class="hero-title">Forge the Future with <span class="gradient-text">AI Ecosystems</span></h1>
+        <p class="hero-subtitle">The ultimate curated index of industry-leading artificial intelligence utilities optimized for engineers, creators, and builders.</p>
+        
+        <div class="search-wrapper">
+          <svg class="search-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+          <input type="text" id="search-input" placeholder="Search across 30+ modern AI frameworks (e.g., Claude, Cursor...)" autocomplete="off">
+        </div>
+      </div>
+    </section>
+
+    <section class="filter-section">
+      <div class="container">
+        <div class="filter-container" id="category-filters">
+          <button class="filter-btn active" data-category="all">All Ecosystems</button>
+          <button class="filter-btn" data-category="Chatbots">Chatbots</button>
+          <button class="filter-btn" data-category="Image Generation">Image Gen</button>
+          <button class="filter-btn" data-category="Video Generation">Video Gen</button>
+          <button class="filter-btn" data-category="Productivity">Productivity</button>
+          <button class="filter-btn" data-category="Coding">Coding</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="directory-section">
+      <div class="container">
+        
+        <div class="loading-wrapper" id="loading-spinner">
+          <div class="spinner"></div>
+          <p>Analyzing Ecosystem Data...</p>
+        </div>
+
+        <div class="no-results" id="no-results">
+          <h3>No Frameworks Found</h3>
+          <p>We couldn't locate any items matching your parameters. Refine your query or category selection.</p>
+        </div>
+
+        <div class="tools-grid" id="tools-grid">
+          </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-content">
+      <p>&copy; 2026 FutureMind. Structured natively for the semantic web. No frameworks required.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,213 @@
+[
+  {
+    "name": "ChatGPT",
+    "description": "OpenAI's conversational AI capable of answering questions, writing, and coding.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128",
+    "url": "https://chatgpt.com"
+  },
+  {
+    "name": "Gemini",
+    "description": "Google's next-generation multimodal AI model built for advanced reasoning and integration.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=128",
+    "url": "https://gemini.google.com"
+  },
+  {
+    "name": "Claude",
+    "description": "Anthropic's safety-focused AI with exceptional long-context comprehension and nuance.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=128",
+    "url": "https://claude.ai"
+  },
+  {
+    "name": "Grok",
+    "description": "xAI's witty chatbot integrated with real-time data access via the X platform.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+    "url": "https://x.ai"
+  },
+  {
+    "name": "DeepSeek",
+    "description": "High-performance open-source language model optimized for reasoning.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=128",
+    "url": "https://deepseek.com"
+  },
+  {
+    "name": "Midjourney",
+    "description": "Leading AI image generator known for artistic and cinematic images.",
+    "category": "Image Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=128",
+    "url": "https://midjourney.com"
+  },
+  {
+    "name": "Leonardo AI",
+    "description": "Create production-ready assets and detailed generative art.",
+    "category": "Image Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=128",
+    "url": "https://leonardo.ai"
+  },
+  {
+    "name": "DALL-E 3",
+    "description": "OpenAI's native image generator integrated with ChatGPT.",
+    "category": "Image Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+    "url": "https://openai.com/dall-e-3"
+  },
+  {
+    "name": "Canva AI",
+    "description": "Generative design suite for presentations and graphics.",
+    "category": "Productivity",
+    "logo": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
+    "url": "https://canva.com"
+  },
+  {
+    "name": "Gamma",
+    "description": "Create presentations and documents with AI.",
+    "category": "Productivity",
+    "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128",
+    "url": "https://gamma.app"
+  },
+
+  {
+    "name": "Sora",
+    "description": "OpenAI's advanced text-to-video model capable of creating realistic 60-second scenes.",
+    "category": "Video Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+    "url": "https://openai.com/sora"
+  },
+  {
+    "name": "Runway Gen-3",
+    "description": "Next-generation video generation model offering unparalleled control and cinematic fidelity.",
+    "category": "Video Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=128",
+    "url": "https://runwayml.com"
+  },
+  {
+    "name": "Pika",
+    "description": "An idea-to-video platform that brings creative animations and realistic edits to life.",
+    "category": "Video Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=pika.art&sz=128",
+    "url": "https://pika.art"
+  },
+  {
+    "name": "HeyGen",
+    "description": "Create professional AI avatars and localized videos for business and marketing animations.",
+    "category": "Video Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=heygen.com&sz=128",
+    "url": "https://heygen.com"
+  },
+  {
+    "name": "Synthesia",
+    "description": "Turn plain text into high-quality training and corporate videos using photorealistic AI avatars.",
+    "category": "Video Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=synthesia.io&sz=128",
+    "url": "https://synthesia.io"
+  },
+  {
+    "name": "Descript",
+    "description": "A collaborative, script-based video and audio editor powered entirely by AI workflows.",
+    "category": "Video Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=descript.com&sz=128",
+    "url": "https://descript.com"
+  },
+  {
+    "name": "Notion AI",
+    "description": "Integrated workspace assistant that helps write, summarize, edit, and organize project notes.",
+    "category": "Productivity",
+    "logo": "https://www.google.com/s2/favicons?domain=notion.so&sz=128",
+    "url": "https://notion.so"
+  },
+  {
+    "name": "Perplexity",
+    "description": "An AI-powered conversational search engine delivering sourced, structured real-time answers.",
+    "category": "Productivity",
+    "logo": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128",
+    "url": "https://perplexity.ai"
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "The gold standard for natural, hyper-realistic AI voice synthesis and audio engineering.",
+    "category": "Productivity",
+    "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+    "url": "https://elevenlabs.io"
+  },
+  {
+    "name": "Otter.ai",
+    "description": "Automated meeting assistant that takes notes, transcribes voice, and summarizes actions.",
+    "category": "Productivity",
+    "logo": "https://www.google.com/s2/favicons?domain=otter.ai&sz=128",
+    "url": "https://otter.ai"
+  },
+  {
+    "name": "Jasper AI",
+    "description": "Enterprise-grade copywriter assistant built to scale corporate content and marketing strategies.",
+    "category": "Productivity",
+    "logo": "https://www.google.com/s2/favicons?domain=jasper.ai&sz=128",
+    "url": "https://jasper.ai"
+  },
+  {
+    "name": "v0 by Vercel",
+    "description": "Generative UI system that builds clean, production-ready frontend code from text prompts.",
+    "category": "Coding",
+    "logo": "https://www.google.com/s2/favicons?domain=v0.dev&sz=128",
+    "url": "https://v0.dev"
+  },
+  {
+    "name": "GitHub Copilot",
+    "description": "Your AI pair programmer integrated directly inside your IDE for faster autocomplete suggestions.",
+    "category": "Coding",
+    "logo": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+    "url": "https://github.com/features/copilot"
+  },
+  {
+    "name": "Cursor",
+    "description": "An AI-first code editor designed from the ground up for seamless software engineering velocity.",
+    "category": "Coding",
+    "logo": "https://www.google.com/s2/favicons?domain=cursor.com&sz=128",
+    "url": "https://cursor.com"
+  },
+  {
+    "name": "Replit Agent",
+    "description": "Build and deploy full-stack web applications straight from conversational development software.",
+    "category": "Coding",
+    "logo": "https://www.google.com/s2/favicons?domain=replit.com&sz=128",
+    "url": "https://replit.com"
+  },
+  {
+    "name": "Tabnine",
+    "description": "Private, secure AI code assistant that automates engineering inside major local environments.",
+    "category": "Coding",
+    "logo": "https://www.google.com/s2/favicons?domain=tabnine.com&sz=128",
+    "url": "https://tabnine.com"
+  },
+  {
+    "name": "Phind",
+    "description": "An intelligent search engine tuned explicitly for developers seeking quick technical documentation.",
+    "category": "Coding",
+    "logo": "https://www.google.com/s2/favicons?domain=phind.com&sz=128",
+    "url": "https://phind.com"
+  },
+  {
+    "name": "Stable Diffusion",
+    "description": "Powerful open-source latent text-to-image diffusion model with deep graphic customization.",
+    "category": "Image Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=stability.ai&sz=128",
+    "url": "https://stability.ai"
+  },
+  {
+    "name": "Adobe Firefly",
+    "description": "Commercially safe generative AI built directly into Creative Cloud applications for design workflows.",
+    "category": "Image Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=adobe.com&sz=128",
+    "url": "https://firefly.adobe.com"
+  },
+  {
+    "name": "Krea AI",
+    "description": "Real-time, interactive generation and upscaling canvas tailored for precise digital arts.",
+    "category": "Image Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=krea.ai&sz=128",
+    "url": "https://krea.ai"
+  }
+]
