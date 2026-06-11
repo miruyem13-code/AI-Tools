@@ -209,5 +209,87 @@
     "category": "Image Generation",
     "logo": "https://www.google.com/s2/favicons?domain=krea.ai&sz=128",
     "url": "https://krea.ai"
+  },
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "description": "OpenAI's conversational AI capable of answering questions, writing, and coding.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128",
+    "url": "https://chatgpt.com"
+  },
+  {
+    "id": 2,
+    "name": "Gemini",
+    "description": "Google's next-generation multimodal AI model built for advanced reasoning and integration.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=128",
+    "url": "https://gemini.google.com"
+  },
+  {
+    "id": 3,
+    "name": "Claude",
+    "description": "Anthropic's safety-focused AI with exceptional long-context comprehension and nuance.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=128",
+    "url": "https://claude.ai"
+  },
+  {
+    "id": 4,
+    "name": "Grok",
+    "description": "xAI's witty chatbot integrated with real-time data access via the X platform.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+    "url": "https://x.ai"
+  },
+  {
+    "id": 5,
+    "name": "DeepSeek",
+    "description": "High-performance open-source language model optimized for reasoning.",
+    "category": "Chatbots",
+    "logo": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=128",
+    "url": "https://deepseek.com"
+  },
+  {
+    "id": 6,
+    "name": "Midjourney",
+    "description": "Leading AI image generator known for artistic and cinematic images.",
+    "category": "Image Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=128",
+    "url": "https://midjourney.com"
+  },
+  {
+    "id": 7,
+    "name": "Leonardo AI",
+    "description": "Create production-ready assets and detailed generative art.",
+    "category": "Image Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=128",
+    "url": "https://leonardo.ai"
+  },
+  {
+    "id": 8,
+    "name": "DALL-E 3",
+    "description": "OpenAI's native image generator integrated with ChatGPT.",
+    "category": "Image Generation",
+    "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+    "url": "https://openai.com/dall-e-3"
+  },
+  {
+    "id": 9,
+    "name": "Canva AI",
+    "description": "Generative design suite for presentations and graphics.",
+    "category": "Productivity",
+    "logo": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
+    "url": "https://canva.com"
+  },
+  {
+    "id": 10,
+    "name": "Gamma",
+    "description": "Create presentations and documents with AI.",
+    "category": "Productivity",
+    "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128",
+    "url": "https://gamma.app"
   }
+
 ]
+
